@@ -18,3 +18,11 @@ I am currently a  sophamore at IIITA.
 2021 Goals:
 
 To contribute more to opensource project.
+
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/shruti-nanda-00b2101a4/
+[instagram]: https://www.instagram.com/__sagittarius_a/
