@@ -17,7 +17,7 @@ A sophamore at IIITA.
 <br />
 <br />
 
-
+<img src="https://github-readme-stats.vercel.app/api/?username=Saggittarius-A&show_icons=true&theme=gotham" alt="github stats"/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Saggittarius-A)
 
 
