@@ -27,3 +27,5 @@ A sophamore at IIITA.
 [linkedin]: https://www.linkedin.com/in/shruti-nanda-00b2101a4/
 [instagram]: https://www.instagram.com/__sagittarius_a/
 [Facebook]: https://www.facebook.com/shruti.nanda.735/
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Saggittarius-A.Saggittarius-A" />
