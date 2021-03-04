@@ -3,7 +3,7 @@ A sophamore at IIITA.
 
 ## I'm a Developer and Student!!
 
-- 🔭 I am currently working with react.
+- 🔭 I am currently working with flutter.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devlopers
 - 🥅 2021 Goals: Contribute more to Open Source projects
