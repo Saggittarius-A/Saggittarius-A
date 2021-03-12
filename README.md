@@ -1,5 +1,5 @@
 ### Hi there 👋! I am Shruti Nanda.
-A sophamore at IIITA.
+A sophomore at IIITA.
 
 ## I'm a Developer and Student!!
 
