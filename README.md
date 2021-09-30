@@ -1,4 +1,4 @@
-### Hi there 👋! I am Shruti Nanda.
+### Hi there 👋! I am Mahesh Kumar
 A pre-final year student at IIITA.
 
 ## I'm a Developer and Student!!
