@@ -1,5 +1,5 @@
 ### Hi there 👋! I am Shruti Nanda.
-A pre-final year student at IIITA.
+A Final year student at IIITA.
 
 ## I'm a Developer and Student!!
 
